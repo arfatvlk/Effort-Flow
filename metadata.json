@@ -1,0 +1,5 @@
+{
+  "name": "EffortFlow - Effort Converter",
+  "description": "A high-precision calculator for project managers and engineers to convert between man-hours, man-days, man-weeks, and man-months with customizable work schedules.",
+  "requestFramePermissions": []
+}
